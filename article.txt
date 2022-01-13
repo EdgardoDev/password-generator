@@ -1,0 +1,112 @@
+Python for Beginners: A Comprehensive and Easy Guide to Learning Python.
+Python is a programming language. It is a general-purpose programming language that can be used to create web applications, desktop applications, and more. It has been ranked as one of the top five programming languages in the world for four years in a row by the TIOBE Index. Python is also one of the easiest programming languages to learn, so it is a great place for beginners or anyone who wants to brush up on their skills.
+
+This guide will teach you all about how Python works and what you can do with it! From coding in Python syntax to installing it on your computer, this guide will provide everything you need to know about Python. You will even learn how much time you should spend studying each day if you want to become proficient at Python! Just scroll down and take a look at what's in store for you!
+
+
+What Is Python?
+Python is a general-purpose programming language that was created by Guido van Rossum. It was released in 1991 and has been ranked as one of the top five most popular programming languages for four years in a row by the TIOBE Index.
+
+So what does Python do? Well, it can be used to create web applications, desktop applications, and more. It's also an easy language to learn, which is why it's perfect for beginners or anyone looking to brush up on their skills.
+
+What are the benefits of using Python? Plus, what are some of the different versions of Python that are available? We'll cover all these topics and more below!
+
+
+Python Syntax
+and Variables
+
+It's important to learn how to code in Python if you want to use the language. This section will teach you everything about the Python syntax and variables, which are two very important topics.
+
+Python has a simple syntax that follows strict rules. The syntax is similar to English, so it's fairly easy for beginners to understand. If you're writing a sentence in English, you start with a capital letter and end with a period, right? In Python, programming statements are made up of keywords that are followed by values or expressions in parentheses. You don't need to worry too much about following this rule when coding because Python will tell you if something is wrong.
+
+Variables are tools that allow us to store data in our program for later use. When we want to store our data in a variable, we assign it using the = operator.
+
+
+Installing Python
+Python is available for Windows, Mac OS X, and Linux. You'll need to download Python from the web and then run the installer.
+
+You can find a link to the installer on the official Python website.
+
+
+Python Interpreter and IDLE
+Python is a programming language, not an interpreter. The interpreter is the code that translates the code written in Python to a computer's machine code so it can be executed.
+
+Python's interpreter is called IDLE. It provides a simple interface for creating and running Python programs. You can use it to write your own programs, debug other people's programs, and explore features of Python.
+
+The IDLE program comes bundled with the Python installation package, which you will need if you want to use Python on your computer.
+
+
+Strings and Numbers
+One of the first things you'll learn in Python is how to manipulate strings and numbers.
+
+Strings are an important part of programming because they contain character data. They can be used for anything from text messages to storing HTML code.
+
+To create a string, use one quotation mark (“) to define it as a string. The quotation mark indicates the start and end of the string. For example:
+
+This is a test string.
+
+If you don't specify that something is a string, Python will assume it's a number. This means that if you misspell "string" as "sting," for example, Python will assume you want to create a number instead of text!
+
+
+Text and Input
+Python is a programming languages, which means you need to know how to type in commands before you can do anything.
+
+When you want to start coding in Python, the first thing you'll need to do is open up your editor of choice (Tip: Notepad++ is an easy-to-use editor that accepts Python syntax.).
+
+Next, write the following two lines of code on the page:
+
+print('Hello world.')
+
+
+
+This will display “Hello world.” on your screen. Remember to save the file with a .py extension when you're done! You can also use print() inside of print() for some nifty tricks. This will allow you to print multiple things at once! For example:
+
+print('Hello world.')
+
+print('What would you like me to say? Type any sentence and I'll say it back!' )
+
+To input text in Python, press "Shift" + "Enter." The cursor will go down one line and a new line will be created after your current line. You can then type what you want into that blank space and then press "Shift" + "Enter" again to create a new line. To delete a whole line, just go back over
+
+
+Lists and Dictionaries
+Lists and dictionaries are two data structures that can be used to store data. Lists and dictionaries allow you to store a whole bunch of values together in one container.
+
+There are two different ways to create a list: - Using square brackets to define the list and putting the values inside separated by commas. For example:
+
+- Using curly brackets { } and using comma seperated defined keys to assign each item. For example:
+
+{'square': 'a', 'circle': 'b', 'triangle':'c'}
+
+
+Functions 
+A function is a set of statements that accomplish a specific task. In Python, functions are one of the most important concepts to understand. They allow programmers to break down large programs into smaller, more manageable pieces.
+
+The syntax for a function in Python looks like this:
+
+def funcname(argument1, argument2):
+
+This final part may look a little strange to you. But don't worry! We'll go over what it means in just a second.
+
+Functions have two parts: the "def" and the "funcname". The "def" defines the name and parameters (arguments) for the function; while "funcname" is the actual code that will be executed when you call this function. The name of your function can be anything you want, but it's usually helpful to give it a verb-noun pair like this:
+
+def sayHello(name):
+
+
+Defining Functions 
+A function is a step-by-step set of instructions to get a job done. In Python, you use functions to break down complex tasks into small, easy-to-manage chunks.
+
+For example, say your math problem has three steps: add two numbers together, subtract the result from another number, and then multiply that answer by yet another number. You can use a function that takes the numbers as input and figures out the final answer for you!
+
+Functions are very useful in coding because they allow programmers to reuse code and focus on one segment at a time. Well-written functions also make it much easier for other programmers to figure out what's going on.
+
+
+Calling Functions 
+Functions are reusable bits of code that you can use in more than one place. So, what does this mean for you? Well, it means you do not have to write the same lines of code over and over again!
+
+What are some examples of functions? One example is a function to find the length of a list. Say you have the following list:
+
+["a", "b", "c"]
+
+If you wanted to know the length of this list, all you would need to do is call the function with your list as an argument.
+
+list_length = len(["a", "b", "c"])
