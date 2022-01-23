@@ -7,11 +7,11 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EdgardoDev/password-generator?logo=python&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdgardoDev/password-generator?color=066da5?logo=python&logoColor=%23fff&style=for-the-badge?color=066da5">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdgardoDev/password-generator?color=066da5&logo=python&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EdgardoDev/password-generator?logo=github&logoColor=%23fff&style=for-the-badge?color=066da5">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EdgardoDev/password-generator?logo=github&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="GitHub license" src="https://img.shields.io/github/license/EdgardoDev/password-generator?logo=github&style=for-the-badge?color=066da5">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/EdgardoDev/password-generator?logo=github&style=for-the-badge&color=066da5">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/password-generator?color=56BEB8" /> -->
 
