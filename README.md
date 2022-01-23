@@ -5,7 +5,7 @@
 <h1 align="center">Password Generator</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/password-generator?style=for-the-badge?color=1976D2&logo=python">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/password-generator?style=for-the-badge?color=1976D2&logo=python&logoColor=#ffffff">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/EdgardoDev/password-generator?color=1976D2">
 
