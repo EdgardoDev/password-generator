@@ -11,7 +11,7 @@
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EdgardoDev/password-generator?logo=github&logoColor=%23fff&style=for-the-badge">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/EdgardoDev/password-generator?color=%23066da5&logo=github&style=for-the-badge">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/EdgardoDev/password-generator?color=%23066da5&logo=github&style=for-the-badge">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/password-generator?color=56BEB8" /> -->
 
